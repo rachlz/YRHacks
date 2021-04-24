@@ -12,7 +12,7 @@ pygame.init()
 # Setting up the window where we will draw our shapes and display animations
 # The numbers represent the resolution of the screen
 WIN = pygame.display.set_mode((900, 700))
-pygame.display.set_caption('Harry V.S. Horcruxes')
+pygame.display.set_caption('GreenCode')
 
 # Colors
 BLACK = (0,0,0)
